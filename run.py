@@ -41,4 +41,4 @@ async def 가격(ctx, company):  # 현재가 시초가 어제가격
     await ctx.send(price_list)
 
 
-bot.run("NzQyMjg2MDIzNTU1NTQ3MjM3.XzD5uw.5qWd6KWgnHwZbkuDRWg2Cc-brKQ")
+bot.run("")
